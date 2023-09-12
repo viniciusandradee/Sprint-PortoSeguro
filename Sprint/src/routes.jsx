@@ -20,7 +20,7 @@ function AppRoutes() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path="/" element={ <Index /> }></Route>
+                <Route path="/Sprint-PortoSeguro" element={ <Index /> }></Route>
                 <Route path="/analise" element={ <AnalisePage /> }></Route>
                 <Route path="/areaExclusiva" element={ <AreaExclusivaPage /> }></Route>
                 <Route path="/cadastro" element={ <CadastroPage /> }></Route>
