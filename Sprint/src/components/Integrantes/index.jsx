@@ -24,7 +24,7 @@ export default function Integrantes() {
             Vinicius Andrade Castro Lopes - RM 99343
             </p>
             <p className='textIntegrantes'>
-              <Link target='_blank' to="https://github.com/viniciusandradee/sprint-rwd-03">https://github.com/viniciusandradee/sprint-rwd-03</Link>
+              <Link target='_blank' to="https://github.com/viniciusandradee/Sprint-PortoSeguro">https://github.com/viniciusandradee/Sprint-PortoSeguro</Link>
             </p>
         </main>
     <Footer />
