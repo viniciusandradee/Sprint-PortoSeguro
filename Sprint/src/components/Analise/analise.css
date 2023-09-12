@@ -1,0 +1,169 @@
+
+@media(min-width:1200px){
+    .mainAnalise {
+        margin-bottom: 350px;
+    }
+
+    .mainVistoria {
+        margin-bottom: 70px;
+    }
+
+    .tituloAnalise {
+        font-size: 60px;
+        margin: 3% 0 25px 5%;
+    }
+
+    .textAnalise {
+        margin: 4px 0 0 5%;
+        font-size: 24px;
+    }
+
+    .textForte {
+        font-weight: bold;
+    }
+
+
+    .botao{
+        width: 40%;
+        height: 75px;
+        border-radius: 6px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 120px;
+    }
+
+    .botao:hover {
+       background-color: #194899; 
+    }
+
+    .vistoria {
+        width: 80%;
+        height: 100%;
+        background-color: #0046BF;
+        font-size: 22px;
+        color: #fff;
+        float: left;
+    }
+    .vistoria:hover {
+        background-color: #194899; 
+     }
+
+    .setaAnalise {
+        float: right;
+        width: 40px;
+        padding: 18px 10px 0 0;
+    }
+}
+
+@media(min-width:425px) and (max-width:1199px){
+    .mainAnalise {
+        margin-bottom: 250px;
+    }
+
+    .mainVistoria {
+        margin-bottom: 70px;
+    }
+
+    .tituloAnalise {
+        font-size: 60px;
+        margin: 20px 0 25px 65px;
+    }
+
+    .textAnalise {
+        margin: 5px 0 0 70px;
+        font-size: 23px;
+    }
+
+    .textForte {
+        font-weight: bold;
+    }
+
+
+    .botao{
+        width: 60%;
+        height: 65px;
+        border-radius: 6px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 55px;
+    }
+
+    .botao:hover {
+       background-color: #194899; 
+    }
+
+    .vistoria {
+        width: 70%;
+        height: 100%;
+        background-color: #0046BF;
+        font-size: 22px;
+        color: #fff;
+        float: left;
+    }
+    .vistoria:hover {
+        background-color: #194899; 
+     }
+
+    .setaAnalise {
+        float: right;
+        width: 40px;
+        padding: 11px 10px 0 0;
+    }
+}
+
+@media(max-width:424px){
+
+    .mainAnalise {
+        margin-bottom: 310px;
+    }
+
+    .mainVistoria {
+        margin-bottom: 70px;
+    }
+
+    .tituloAnalise {
+        font-size: 40px;
+        margin: 20px 0 25px 25px;
+    }
+
+    .textAnalise {
+        margin: 5px 0 0 40px;
+    }
+
+    .textForte {
+        font-weight: bold;
+    }
+
+
+    .botao{
+        width: 70%;
+        height: 45px;
+        border-radius: 6px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 55px;
+    }
+
+    .botao:hover {
+       background-color: #194899; 
+    }
+
+    .vistoria {
+        width: 80%;
+        height: 100%;
+        background-color: #0046BF;
+        font-size: 16px;
+        color: #fff;
+        float: left;
+    }
+    .vistoria:hover {
+        background-color: #194899; 
+     }
+
+    .setaAnalise {
+        float: right;
+        width: 22px;
+        padding: 11px 10px 0 0;
+    }
+
+}

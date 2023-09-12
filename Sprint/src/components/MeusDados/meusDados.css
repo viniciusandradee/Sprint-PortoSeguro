@@ -1,0 +1,286 @@
+@media(min-width:1200px){
+    .mainMeusDados, .mainMeusSeguros{
+        margin-bottom: 100px;
+    }
+
+    .mainPagamento {
+        margin-bottom: 220px;
+    }
+
+    .mainMinhaBike{
+        margin-bottom: 165px;
+    }
+
+    .tituloMeusDados {
+        font-size: 45px;
+        margin: 50px 0 20px 24%;
+    }
+
+    .dados h3, .endereco h3, .cartao h3, .bikeInfo h3, .bikeAssegurada h3, .bikeVistoria h3 {
+        margin: 25px 0 30px 0;
+        font-size: 25px;
+    }
+
+    .dados , .endereco, .cartao, .bikeInfo, .bikeAssegurada, .bikeVistoria{
+        width: 40%;
+    }
+
+    #txtNomeMD, #txtCPFMD, #txtFiliaP, #txtFiliaM, #txtEmailMD, #txtCEP, #txtRua, #txtSituacao, #txtNumeracao, #txtPagamento, #txtNumSerie, #txtCodNotaFiscal, #txtAcessorio, #txtAtividade, #txtNomeTitular, #txtNumCartao, #txtBandeira{
+        width: 100%;
+        height: 65px;
+        
+    }
+
+    #txtRGMD, #txtSenha, #txtConfSenha, #txtOrgaoEmissorMD, #txtCidMD, #txtEstMD, #txtComplemento, #txtNum, #txtAnoCompra, #txtCor, #txtDataVal, #txtCVV {
+        width: 49%;
+        height: 65px;
+    }
+    #txtRGMD, #txtSenha, #txtCidMD,  #txtComplemento, #txtAnoCompra, #txtDataVal{
+        margin-right: 2%;
+    }
+
+    .cadastrar{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .botaoDados{
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .botaoEnviar {
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0099bf;
+        color: #fff;
+        margin-top: 35px;
+    }
+
+    .botaoEnviar:hover{
+        background-color: #026680;
+    }
+
+    .botaoDados:hover {
+        background-color: #073079;
+    }
+}
+
+@media(min-width:769px) and (max-width:1199px){
+    .mainMeusDados, .mainMeusSeguros{
+        margin-bottom: 100px;
+    }
+
+    .mainPagamento {
+        margin-bottom: 220px;
+    }
+
+    .mainMinhaBike{
+        margin-bottom: 165px;
+    }
+
+    .tituloMeusDados {
+        font-size: 45px;
+        margin: 40px 0 20px 55px;
+    }
+
+    .dados h3, .endereco h3, .cartao h3, .bikeInfo h3, .bikeAssegurada h3, .bikeVistoria h3, .cartao h3 {
+        margin: 25px 0 30px 12%;
+        font-size: 25px;
+    }
+
+    #txtNomeMD, #txtCPFMD, #txtFiliaP, #txtFiliaM, #txtEmailMD, #txtCEP, #txtRua, #txtSituacao, #txtNumeracao, #txtPagamento, #txtNumSerie, #txtCodNotaFiscal, #txtAcessorio, #txtAtividade, #txtNomeTitular, #txtNumCartao, #txtBandeira{
+        width: 60%;
+        height: 65px;
+        margin-left: 19%;
+    }
+
+    #txtRGMD, #txtSenha, #txtConfSenha, #txtOrgaoEmissorMD, #txtCidMD, #txtEstMD, #txtComplemento, #txtNum, #txtAnoCompra, #txtCor, #txtDataVal, #txtCVV {
+        margin-left: 10px;
+        width: 29.3%;
+        height: 65px;
+    }
+
+    #txtRGMD, #txtSenha, #txtCidMD,  #txtComplemento, #txtAnoCompra, #txtDataVal{
+        margin-left: 19%;
+    }
+
+    .cadastrar{
+        width: 40%;
+    }
+
+    .botaoDados{
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .botaoDados:hover {
+        background-color: #073079;
+    }
+
+    .botaoEnviar {
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0099bf;
+        color: #fff;
+        margin-top: 35px;
+        margin-bottom: 70px;
+
+    }
+
+    .botaoEnviar:hover{
+        background-color: #026680;
+    }
+}
+
+@media(min-width:425px) and (max-width:1199px){
+    .mainMeusDados, .mainMeusSeguros{
+        margin-bottom: 100px;
+    }
+
+    .mainPagamento {
+        margin-bottom: 220px;
+    }
+
+    .mainMinhaBike{
+        margin-bottom: 165px;
+    }
+
+    .tituloMeusDados {
+        font-size: 45px;
+        margin: 40px 0 20px 55px;
+    }
+
+    .dados h3, .endereco h3, .cartao h3, .bikeInfo h3, .bikeAssegurada h3, .bikeVistoria h3, .cartao h3 {
+        margin: 25px 0 30px 12%;
+        font-size: 25px;
+    }
+
+    #txtNomeMD, #txtCPFMD, #txtFiliaP, #txtFiliaM, #txtEmailMD, #txtCEP, #txtRua, #txtSituacao, #txtNumeracao, #txtPagamento, #txtNumSerie, #txtCodNotaFiscal, #txtAcessorio, #txtAtividade, #txtNomeTitular, #txtNumCartao, #txtBandeira{
+        width: 60%;
+        height: 65px;
+        margin-left: 19%;
+    }
+
+    #txtRGMD, #txtSenha, #txtConfSenha, #txtOrgaoEmissorMD, #txtCidMD, #txtEstMD, #txtComplemento, #txtNum, #txtAnoCompra, #txtCor, #txtDataVal, #txtCVV {
+        margin-left: 10px;
+        width: 29.3%;
+        height: 65px;
+    }
+
+    #txtRGMD, #txtSenha, #txtCidMD,  #txtComplemento, #txtAnoCompra, #txtDataVal{
+        margin-left: 19%;
+    }
+
+    .cadastrar{
+        width: 40%;
+    }
+
+    .botaoDados{
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .botaoDados:hover {
+        background-color: #073079;
+    }
+
+    .botaoEnviar {
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0099bf;
+        color: #fff;
+        margin-top: 35px;
+    }
+
+    .botaoEnviar:hover{
+        background-color: #026680;
+    }
+}
+
+@media(max-width:424px){
+
+    .mainMeusDados, .mainMeusSeguros{
+        margin-bottom: 100px;
+    }
+
+    .mainPagamento {
+        margin-bottom: 220px;
+    }
+
+    .mainMinhaBike{
+        margin-bottom: 165px;
+    }
+
+
+    .infosMeusDados h1 {
+        margin: 20px 0 20px 40px;
+    }
+
+    .dados h3, .endereco h3, .cartao h3, .bikeInfo h3, .bikeAssegurada h3, .bikeVistoria h3, .cartao h3 {
+        margin: 15px 0 10px 30px
+    }
+
+    #txtNomeMD, #txtCPFMD, #txtFiliaP, #txtFiliaM, #txtEmailMD, #txtCEP, #txtRua, #txtSituacao, #txtNumeracao, #txtPagamento, #txtNumSerie, #txtCodNotaFiscal, #txtAcessorio, #txtAtividade, #txtNomeTitular, #txtNumCartao, #txtBandeira{
+        width: 85%;
+        margin-left: 5.5%;
+    }
+
+    #txtRGMD, #txtSenha, #txtConfSenha, #txtOrgaoEmissorMD, #txtCidMD, #txtEstMD, #txtComplemento, #txtNum, #txtAnoCompra, #txtCor, #txtDataVal, #txtCVV {
+        margin-left: 5px;
+        width: 42%;
+    }
+
+    #txtRGMD, #txtSenha, #txtCidMD,  #txtComplemento, #txtAnoCompra, #txtDataVal{
+        margin-left: 5.5%;
+    }
+
+    .cadastrar{
+        width: 60%;
+    }
+
+    .botaoDados{
+        width: 100%;
+        background-color: #0046BF;
+        color: #fff;
+        margin-top: 5px;
+        float: left;
+    }
+
+    .botaoDados:hover {
+        background-color: #073079;
+    }
+
+    .botaoEnviar {
+        width: 100%;
+        height: 60px;
+        font-size: 18px;
+        background-color: #0099bf;
+        color: #fff;
+        margin-top: 35px;
+        margin-bottom: 70px;
+    }
+
+    .botaoEnviar:hover{
+        background-color: #026680;
+    }
+
+}

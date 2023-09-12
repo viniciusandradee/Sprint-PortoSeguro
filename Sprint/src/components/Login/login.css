@@ -1,0 +1,262 @@
+@media(min-width:1200px){
+    .mainCadastro {
+        margin-bottom: 120px;
+    }
+
+    .mainLogin {
+        margin-bottom: 120px;
+    }
+
+
+    .subTituloLogin, .subTituloCadastro {
+        font-size:60px;
+        margin: 40px 0 0 20%;
+    }
+    
+    .out, .person{
+        position: absolute;
+        right: 25%;
+        top: 175px;
+        width: 50px;
+    }
+
+    .dicaLogin, .dicaCadastro{
+        margin: 15px 0 70px 20%;
+        font-size: 22px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 20px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 17px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    #txtPwd, #txtCPF, #txtEmailLogin, #txtEmailCadastro, #txtCPFCadastro{
+        width: 35%;
+        height: 60px;
+        margin-left: 33%;
+    }
+
+    .loginLogin, .cadastrarLogin, .cadastrarCadastro{
+        color:white;
+        background-color: #243fd8;
+        margin-top: 20px;
+        width: 38%;
+        height: 60px;
+        margin-left: 31.5%;
+        font-size: 20px;
+    }
+
+    .loginLogin:hover, .cadastrarCadastro:hover{
+        background-color: #182b96;
+    }
+
+    .infosLogin {
+        font-size: 22px;
+        margin-top: 35px;
+        margin-left: 20%;
+        font-weight: bold;
+    }
+
+    .cadastroLogin {
+        margin-top: 25px;
+        margin-left: 20%;
+        font-size: 22px;
+        font-weight: bold;
+        
+    }
+
+    .cadastroLogin:hover{
+        color:#1d35be;
+        font-size: 25px;
+    }
+
+
+}
+
+
+@media(min-width:425px) and (max-width:1199px){
+    .mainCadastro {
+        margin-bottom: 210px;
+    }
+
+    .mainLogin {
+        margin-bottom: 120px;
+    }
+
+
+    .subTituloLogin, .subTituloCadastro {
+        font-size:60px;
+        margin: 30px 0 0 70px;
+    }
+    
+    .out, .person{
+        position: absolute;
+        right: 20%;
+        top: 175px;
+        width: 50px;
+    }
+
+    .dicaLogin, .dicaCadastro{
+        margin: 15px 0 40px 85px;
+        font-size: 22px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 20px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 17px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    #txtPwd, #txtCPF, #txtEmailLogin, #txtEmailCadastro, #txtCPFCadastro{
+        width: 52%;
+        height: 60px;
+        margin-left: 24%;
+    }
+
+    .loginLogin, .cadastrarLogin, .cadastrarCadastro{
+        color:white;
+        background-color: #243fd8;
+        margin-top: 20px;
+        width: 55%;
+        height: 60px;
+        margin-left: 22.5%;
+        font-size: 20px;
+    }
+
+    .loginLogin:hover, .cadastrarLogin:hover{
+        background-color: #182b96;
+    }
+
+    .infosLogin {
+        font-size: 22px;
+        margin-top: 25px;
+        margin-left: 55px;
+        font-weight: bold;
+    }
+
+    .cadastroLogin {
+        margin-top: 15px;
+        margin-left: 55px;
+        font-size: 22px;
+        font-weight: bold;
+        
+    }
+
+    .cadastroLogin:hover{
+        color:#1d35be;
+        font-size: 25px;
+    }
+}
+
+@media(max-width:424px){
+    .mainCadastro {
+        margin-bottom: 210px;
+    }
+
+    .mainLogin {
+        margin-bottom: 205px;
+    }
+
+
+    .subTituloLogin, .subTituloCadastro {
+        font-size: 35px;
+        margin: 30px 0 0 40px;
+    }
+    
+    .out, .person{
+        position: absolute;
+        right: 20%;
+        top: 135px;
+        width: 30px;
+    }
+
+    .dicaLogin, .dicaCadastro{
+        margin: 15px 0 20px 45px;
+        font-size: 16px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 10px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 12px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    #txtPwd, #txtCPF, #txtEmailLogin, #txtEmailCadastro, #txtCPFCadastro{
+        width: 73%;
+        margin-left: 12%;
+    }
+
+    .loginLogin, .cadastrarLogin, .cadastrarCadastro{
+        color:white;
+        background-color: #243fd8;
+        margin-top: 20px;
+        width: 75%;
+        height: 40px;
+        margin-left: 11%;
+    }
+
+    .loginLogin:hover, .cadastrarLogin:hover{
+        background-color: #182b96;
+    }
+
+    .infosLogin {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-left: 55px;
+        font-weight: bold;
+    }
+
+    .cadastroLogin {
+        margin-top: 10px;
+        margin-left: 55px;
+        font-size: 16px;
+        font-weight: bold;
+        
+    }
+
+    .cadastroLogin:hover{
+        color:#1d35be;
+        font-size: 18px;
+    }
+
+}

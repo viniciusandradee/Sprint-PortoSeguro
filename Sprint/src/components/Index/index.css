@@ -1,0 +1,282 @@
+@media(min-width:1200px){
+    .largeBanner{
+        background: #B1E2FD;
+        padding-bottom: 25px;
+    }
+
+    .largeBanner h1{
+        font-size: 46px;
+
+    }
+
+    .largeBanner p {
+        font-weight: bold;
+        font-size: 23px;
+        margin-top: 3%;
+    }
+
+    .centralizar {
+        
+        text-align: center;
+    }
+    
+
+    .bikeBanner {
+        width: 100%;
+    }
+
+    .largeService {
+        background-color: #0046BF;
+    }
+
+    .largeService h3 {
+        color: #fff;
+        font-size: 34px;
+        padding-top: 5%;
+        padding-bottom: 45px;
+
+    }
+
+
+    .smallService {
+        display: none;
+    }
+
+    .smallBanner {
+        display: none;
+    }
+
+    .bikes {
+        width: 34%;
+        margin-bottom: 6%;
+        margin-right: 3%;
+    }
+    .bike1 {
+        width: 37%;
+        height: 32%;
+    }
+
+    .bicicletas {
+        width: 1200px;
+        display: flex;
+    }  
+
+    .botaoIndex {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        width: 25%;
+        height: 70px;
+        font-size: 20px;
+        color: #000;
+        background-color: #B1E2FD;
+    }
+
+    .botaoIndex:hover {
+        background-color: #6e91a3;
+    }
+}
+
+@media(min-width:769px) and (max-width:1199px){
+
+    .smallBanner{
+        background: #B1E2FD;
+        padding-bottom: 25px;
+    }
+
+    .smallBanner h1{
+        font-size: 34px;
+
+        margin-top: 2%;
+    }
+
+    .smallBanner p {
+        font-weight: bold;
+        font-size: 18px;
+        margin-top: 3%;
+
+    }
+
+    .centralizar { 
+        text-align: center;
+    }
+
+
+    .bikeBanner {
+        width: 100%;
+    }
+
+    .smallService {
+        background-color: #0046BF;
+    }
+
+    .smallService h3 {
+        color: #fff;
+        font-size: 24px;
+        padding-top: 5%;
+        margin-left: 10%;
+        padding-bottom: 45px;
+        margin-right: 6%;
+    }
+
+    .largeService {
+        display: none;
+    }
+    
+    .largeBanner {
+        display: none;
+    }
+
+    .bikes {
+        width: 50%;
+        margin-left: 25%;
+        margin-bottom: 6%;
+    }
+
+    .botaoIndex {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        width: 35%;
+        height: 80px;
+        font-size: 22px;
+        color: #000;
+        background-color: #B1E2FD;
+    }
+
+    .botaoIndex:hover {
+        background-color: #6e91a3;
+    }
+
+}
+
+@media(min-width:425px) and (max-width:768px){
+    .smallBanner{
+        background: #B1E2FD;
+        padding-bottom: 25px;
+    }
+
+    .smallBanner h1{
+        font-size: 30px;
+        margin-left: 18%;
+        margin-right: 10%;
+        margin-top: 2%;
+    }
+
+    .smallBanner p {
+        font-weight: bold;
+        margin-top: 5%;
+        margin-left: 8%;
+        margin-right: 5%;
+    }
+
+    .bikeBanner {
+        width: 100%;
+    }
+
+    .smallService {
+        background-color: #0046BF;
+    }
+
+    .smallService h3 {
+        color: #fff;
+        padding-top: 5%;
+        margin-left: 8%;
+        padding-bottom: 20px;
+        margin-right: 2%;
+    }
+
+    .largeService {
+        display: none;
+    }
+    .largeBanner {
+        display: none;
+    }
+
+    .bikes {
+        width: 60%;
+        margin-left: 20%;
+        margin-bottom: 6%;
+    }
+
+    .centralizar { 
+        text-align: center;
+    }
+
+    .botaoIndex {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        width: 35%;
+        height: 80px;
+        font-size: 22px;
+        color: #000;
+        background-color: #B1E2FD;
+    }
+
+    .botaoIndex:hover {
+        background-color: #6e91a3;
+    }
+}
+
+@media(max-width:424px){
+    .smallBanner{
+        background: #B1E2FD;
+        padding-bottom: 25px;
+    }
+
+    .smallBanner h1{
+        font-size: 28px;
+        margin-left: 4%;
+    }
+
+    .smallBanner p {
+        font-weight: bold;
+        margin-top: 5%;
+        margin-left: 8%;
+    }
+
+    .bikeBanner {
+        width: 100%;
+    }
+
+    .smallService {
+        background-color: #0046BF;
+    }
+
+    .smallService h3 {
+        color: #fff;
+        padding-top: 5%;
+        margin-left: 8%;
+        padding-bottom: 20px;
+    }
+
+    .largeService {
+        display: none;
+    }
+
+    .largeBanner {
+        display: none;
+    }
+
+    .bikes {
+        width: 60%;
+        margin-left: 20%;
+        margin-bottom: 6%;
+    }
+
+    .centralizar {
+        text-align: center;
+    }
+
+    .botaoIndex {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        width: 52%;
+        height: 50px;
+        font-size: 16px;
+        color: #000;
+        background-color: #B1E2FD;
+    }
+
+    .botaoIndex:hover {
+        background-color: #6e91a3;
+    }
+}

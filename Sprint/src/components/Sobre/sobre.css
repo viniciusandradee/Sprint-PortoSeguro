@@ -1,0 +1,49 @@
+@media(min-width:1200px){
+    .mainSobre {
+        margin-bottom: 330px;
+    }
+
+    .tituloSobre  {
+        font-size: 55px;
+        margin: 4% 0 55px 6%;
+    }
+
+    .textoSobre {
+        margin: 10px 0 30px 6%;
+        font-size: 20px;
+    }
+}
+
+
+@media(min-width:425px) and (max-width:1199px){
+    .mainSobre {
+        margin-bottom: 330px;
+    }
+
+    .tituloSobre  {
+        font-size: 55px;
+        margin: 5% 0 55px 7%;
+    }
+
+    .textoSobre {
+        margin: 10px 0 0 7%;
+        font-size: 20px;
+    }
+}
+
+@media(max-width:424px){
+    .mainSobre {
+        margin-bottom: 330px;
+    }
+
+    .tituloSobre  {
+        font-size: 40px;
+        margin: 20px 0 25px 25px;
+    }
+
+    .textoSobre {
+        margin: 5px 0 0 40px;
+    }
+    
+
+}

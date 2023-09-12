@@ -1,0 +1,300 @@
+@media(min-width:1200px){
+    .tituloSuporte{
+        font-size: 50px;
+        margin: 4% 0 10px 5%;
+    }
+
+    
+    .text_infosSuporte, .infosSuporte, .textSuporte{
+        font-weight: bold;
+    }
+
+    .textSuporte{
+        margin-left: 5%;
+        font-size: 20px;
+    }
+
+
+    .infosSuporte{
+        margin-top: 1%;
+        margin-left: 6%;
+        font-size: 19px;
+    }
+
+    .text_infosSuporte{
+        margin-left: 6.5%;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .outras_infosSuporte{
+        font-size: 20px;
+        margin-left: 5%;
+        margin-bottom: 25px;
+        line-height: 20px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 5px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 17px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    .pessoaisSuporte {
+        width: 40%;
+    }
+
+    #txtCPFSup, #txtTelSup,#txtCid, #txtEst{
+        width: 48%;
+        height: 60px;
+    }
+
+    #txtNome, #txtMotivo, #txtEmail{
+        width: 99%;
+        height: 60px;
+        
+        margin-top: 8px;
+    }
+
+    #txtCPFSup, #txtCid{
+        margin-right: 3%;
+        margin-top: 8px;
+    }
+
+    #txtMsg {
+        width: 99%;
+        margin-top: 8px;
+        height: 120px;
+    }
+
+    .confirmarSuporte{
+        padding-top: 45px;
+        width: 45%;
+        margin-bottom: 20px;
+    }
+
+    .botaoConfSuporte{
+        width: 100%;
+        height: 55px;
+        color:white;
+        background-color: #34cef5;
+        font-size: 18px;
+    }
+
+    .botaoConfSuporte:hover {
+        background-color: #1d93b1;
+    }
+}
+
+@media(min-width:425px) and (max-width:1199px){
+    .tituloSuporte{
+        font-size: 50px;
+        margin: 30px 0 10px 65px;
+    }
+
+    
+    .text_infosSuporte, .infosSuporte, .textSuporte{
+        font-weight: bold;
+    }
+
+    .textSuporte{
+        margin-left: 65px;
+        font-size: 20px;
+    }
+
+
+    .infosSuporte{
+        margin-top: 10px;
+        margin-left: 75px;
+        font-size: 19px;
+        
+    }
+
+    .text_infosSuporte{
+        margin-left: 80px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .outras_infosSuporte{
+        font-size: 20px;
+        margin-left: 65px;
+        margin-bottom: 25px;
+        line-height: 20px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 5px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 17px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    #txtCPFSup, #txtTelSup,#txtCid, #txtEst{
+        width: 29.5%;
+        height: 60px;
+    }
+
+    #txtNome, #txtMotivo, #txtEmail{
+        width: 60%;
+        height: 60px;
+        margin-left: 21.2%;
+        margin-top: 8px;
+    }
+
+    #txtCPFSup, #txtCid{
+        margin-left: 21.2%;
+        margin-right: 8px;
+        margin-top: 8px;
+    }
+
+    #txtMsg {
+        margin-left: 21.2%;
+        width: 60%;
+        margin-top: 8px;
+        height: 70px;
+    }
+
+    .confirmarSuporte{
+        padding-top: 45px;
+        width: 45%;
+        margin-bottom: 20px;
+    }
+
+    .botaoConfSuporte{
+        width: 100%;
+        height: 55px;
+        color:white;
+        background-color: #34cef5;
+        font-size: 18px;
+    }
+
+    .botaoConfSuporte:hover {
+        background-color: #1d93b1;
+    }
+}
+
+@media(max-width:424px){
+
+    .tituloSuporte{
+        font-size: 40px;
+        margin: 20px 0 10px 25px;
+    }
+
+    
+    .text_infosSuporte, .infosSuporte, .textSuporte{
+        font-weight: bold;
+    }
+
+    .textSuporte{
+        margin-left: 30px;
+        font-size: 17px;
+    }
+
+
+    .infosSuporte{
+        margin-top: 10px;
+        margin-left: 40px;
+        font-size: 18px;
+        
+    }
+
+    .text_infosSuporte{
+        margin-left: 50px;
+        margin-bottom: 10px;
+    }
+
+    .outras_infosSuporte{
+        font-size: 17px;
+        margin-left: 30px;
+        margin-bottom: 25px;
+        line-height: 20px;
+    }
+
+
+    input{
+        height: 45px;
+        width: 300px;
+        border-radius: 6px;
+        border:none;
+      
+        background-color: #e7e6e6;
+        margin-bottom: 5px;
+    }
+
+    input::placeholder{
+        color: #32beff;
+        font-size: 12px;
+        position: absolute;
+        top: 0;
+        padding: 6px 0 0 6px;
+    }
+
+    #txtCPFSup, #txtTelSup,#txtCid, #txtEst{
+        width: 43%;
+    }
+
+    #txtNome, #txtMotivo, #txtEmail{
+        width: 88%;
+        margin-left: 3.5%;
+        margin-top: 8px;
+    }
+
+    #txtCPFSup, #txtCid{
+        margin-left: 3.5%;
+        margin-right: 8px;
+        margin-top: 8px;
+    }
+
+    #txtMsg {
+        margin-left: 3.5%;
+        width: 88%;
+        margin-top: 8px;
+        height: 70px;
+    }
+
+    .confirmarSuporte{
+        padding-top: 45px;
+        width: 40%;
+        margin-bottom: 20px;
+    }
+
+    .botaoConfSuporte{
+        width: 100%;
+        height: 35px;
+
+        color:white;
+        background-color: #34cef5;
+        font-size: 14px;
+    }
+
+    .botaoConfSuporte:hover {
+        background-color: #1d93b1;
+    }
+
+}
